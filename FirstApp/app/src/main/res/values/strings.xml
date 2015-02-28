@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="hello_world">Hello Rajini</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="New_Button">Go</string>
+
+    <string name="title_section1">First</string>
+    <string name="title_section2">Middle</string>
+    <string name="title_section3">Last</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>
